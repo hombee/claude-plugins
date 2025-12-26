@@ -4,8 +4,32 @@ Hombee plugin marketplace for Claude Code.
 
 ## Installation
 
+### Add the Marketplace
+
+**From command line:**
+
 ```bash
-claude add hombee/claude-plugins
+claude plugin marketplace add hombee/claude-plugins
+```
+
+**Inside Claude Code:**
+
+```
+/plugin marketplace add hombee/claude-plugins
+```
+
+### Install a Plugin
+
+**From command line:**
+
+```bash
+claude plugin install dart-lsp@claude-plugins
+```
+
+**Inside Claude Code:**
+
+```
+/plugin install dart-lsp@claude-plugins
 ```
 
 ## Available Plugins
