@@ -23,13 +23,13 @@ claude plugin marketplace add hombee/claude-plugins
 **From command line:**
 
 ```bash
-claude plugin install dart-lsp@claude-plugins
+claude plugin install dart-lsp@hombee-plugins
 ```
 
 **Inside Claude Code:**
 
 ```
-/plugin install dart-lsp@claude-plugins
+/plugin install dart-lsp@hombee-plugins
 ```
 
 ## Available Plugins

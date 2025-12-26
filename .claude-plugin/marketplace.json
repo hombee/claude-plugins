@@ -1,6 +1,9 @@
 {
-  "description": "Custom plugin marketplace for Claude Code",
-  "name": "claude-plugins",
+  "description": "Hombee plugin marketplace for Claude Code",
+  "name": "hombee-plugins",
+  "owner": {
+    "name": "Hombee"
+  },
   "plugins": [
     {
       "category": "language",
