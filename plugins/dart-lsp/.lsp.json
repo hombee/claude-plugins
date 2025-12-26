@@ -1,0 +1,14 @@
+{
+  "dart": {
+    "args": ["language-server", "--protocol=lsp"],
+    "command": "dart",
+    "extensionToLanguage": {
+      ".dart": "dart"
+    },
+    "initializationOptions": {
+      "closingLabels": true,
+      "flutterOutline": true,
+      "suggestFromUnimportedLibraries": true
+    }
+  }
+}

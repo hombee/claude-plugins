@@ -1,0 +1,14 @@
+{
+  "description": "Custom plugin marketplace for Claude Code",
+  "name": "claude-plugins",
+  "plugins": [
+    {
+      "category": "language",
+      "description": "Dart and Flutter LSP support for Claude Code",
+      "name": "dart-lsp",
+      "source": "./plugins/dart-lsp",
+      "tags": ["dart", "flutter", "lsp", "mobile", "language-server"],
+      "version": "1.0.0"
+    }
+  ]
+}

@@ -1,0 +1,6 @@
+{
+  "description": "Dart and Flutter Language Server Protocol support",
+  "keywords": ["dart", "flutter", "lsp", "language-server"],
+  "name": "dart-lsp",
+  "version": "1.0.0"
+}
